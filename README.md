@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I write code. And I DONT use Arch btw. (fedora is better)
+I DONT use Arch btw. (fedora is better)
 
 Here are some of my projects: 
 # 1. [Youtube Music TUI](https://github.com/BrownNPC/Youtube-Music-TUI)
