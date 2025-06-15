@@ -15,6 +15,3 @@ Ran Go code on a Sony PSP using web assembly which was compiled to C (proof of c
 
 ### 4. [Raylib Go Web](https://github.com/BrownNPC/Raylib-Go-Wasm)
 Raylib Golang bindings for the web using webassembly
-
-### 5. [BLA Api Wrapper](https://github.com/BrownNPC/BLA-Api-Wrapper)
-Reverse engineered my school's homework app API (Pyhton)
