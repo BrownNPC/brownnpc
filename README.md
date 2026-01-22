@@ -4,12 +4,13 @@ I DONT use Arch btw. (fedora is better)
 projects: 
 
 
-### 1. [Mine](https://github.com/BrownNPC/Mine)
+### 1. [Raylib Go Web](https://github.com/BrownNPC/Raylib-Go-Wasm)
+[Raylib Golang](https://github.com/gen2brain/raylib-go) bindings for the web using webassembly
+
+
+### 2. [Mine](https://github.com/BrownNPC/Mine)
 Minecraft without the craft.
 
-
-### 2. [Raylib Go Web](https://github.com/BrownNPC/Raylib-Go-Wasm)
-Raylib Golang bindings for the web using webassembly
 
 ### 3. [Simple ECS](https://github.com/BrownNPC/simple-ecs)
 Simplest and easiest library to help you write your game systems.
