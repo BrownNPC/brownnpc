@@ -5,6 +5,7 @@ projects:
 
 
 ### 1. [Raylib Go Web](https://github.com/BrownNPC/Raylib-Go-Wasm)
+The Go bindings for raylib had not been able to compile to web for a decade, so I did it myself :D
 [Raylib Golang](https://github.com/gen2brain/raylib-go) bindings for the web using webassembly
 
 
