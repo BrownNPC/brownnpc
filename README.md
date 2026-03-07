@@ -10,7 +10,7 @@ projects:
 
 
 ### 1. [Raylib Go Web](https://github.com/BrownNPC/Raylib-Go-Wasm)
-The [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
+Le [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
 
 ### 2. [Mine](https://github.com/BrownNPC/Mine)
 Minecraft without the craft, using OpenGL+Raylib+Go.
