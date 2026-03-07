@@ -1,5 +1,7 @@
 
-~~I DONT use Arch btw. (fedora is better)~~ 2026 update: Moved to arch
+~~I DONT use Arch btw. (fedora is better)~~
+2026 update: I use Arch
+
 I'm also a frequent contributor to raylib-go.
 
 projects: 
