@@ -9,7 +9,7 @@ I'm also a frequent contributor to [raylib-go](https://github.com/gen2brain/rayl
 ## Projects: 
 
 ### 1. [Mine](https://github.com/BrownNPC/Mine)
-**Minecraft** without the craft, using OpenGL+Raylib+Go. 
+### **Minecraft** without the craft, using OpenGL+Raylib+Go. 
 <details open>
 <summary>Screenshots</summary>
 <img src="https://github.com/user-attachments/assets/1242822b-094e-479f-a4c9-17a84c76dced" width="55%">
@@ -18,21 +18,22 @@ I'm also a frequent contributor to [raylib-go](https://github.com/gen2brain/rayl
 
 ### 2. [Raylib Go Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) 
 
-[![GitHub stars](https://img.shields.io/github/stars/BrownNPC/Raylib-Go-Wasm?style=flat-square&color=yellow)](https://github.com/BrownNPC/Raylib-Go-Wasm)
+### [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
 
-#### Le [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
+(and it wasn't as simple as you may think)
 
 
+### 3. [Golang on a Sony PSP](https://github.com/BrownNPC/Wasm-on-PSP-Demo)
+### **Go code** on a **Sony PSP** using **Web Assembly** 
+which was compiled to C (proof of concept)
 
-### 3. [Simple ECS](https://github.com/BrownNPC/simple-ecs)
+<img src="https://github.com/user-attachments/assets/90fc95c8-e26c-4b2b-8917-0abd58ebae6f" width="45%">
+
+### 4. [Simple ECS](https://github.com/BrownNPC/simple-ecs)
 Easy library to help you write your game systems.
 Now moved focus to https://github.com/BrownNPC/thing-system
 
-### 4. [ICE Data Channels](https://github.com/BrownNPC/Ice-Data-Channel)
+### 5. [ICE Data Channels](https://github.com/BrownNPC/Ice-Data-Channel)
 Establish peer to peer UDP connections, with Nat traversal using ICE Protocol.
 
-### 5. [Golang on a Sony PSP](https://github.com/BrownNPC/Wasm-on-PSP-Demo)
-Ran Go code on a Sony PSP using web assembly which was compiled to C (proof of concept)
-
-<img src="https://github.com/user-attachments/assets/90fc95c8-e26c-4b2b-8917-0abd58ebae6f" width="45%">
 
