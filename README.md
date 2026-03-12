@@ -4,24 +4,25 @@
 
 2026 update: I use Arch
 
-I'm also a frequent contributor to raylib-go.
+I'm also a frequent contributor to [raylib-go](https://github.com/gen2brain/raylib-go/).
 
-projects: 
+## Projects: 
 
-
-### 1. [Raylib Go Web](https://github.com/BrownNPC/Raylib-Go-Wasm)
-Le [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
-
-### 2. [Mine](https://github.com/BrownNPC/Mine)
+### 1. [Mine](https://github.com/BrownNPC/Mine)
 **Minecraft** without the craft, using OpenGL+Raylib+Go. 
-
-
 <details open>
 <summary>Screenshots</summary>
-
 <img src="https://github.com/user-attachments/assets/1242822b-094e-479f-a4c9-17a84c76dced" width="55%">
 <img src="https://github.com/user-attachments/assets/9375ba6a-0508-45e8-8a29-fe7269897ed7" width="55%">
 </details>
+
+### 2. [Raylib Go Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) 
+
+[![GitHub stars](https://img.shields.io/github/stars/BrownNPC/Raylib-Go-Wasm?style=flat-square&color=yellow)](https://github.com/BrownNPC/Raylib-Go-Wasm)
+
+#### Le [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
+
+
 
 ### 3. [Simple ECS](https://github.com/BrownNPC/simple-ecs)
 Easy library to help you write your game systems.
