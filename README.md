@@ -16,11 +16,12 @@ Le [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to comp
 **Minecraft** without the craft, using OpenGL+Raylib+Go. 
 
 
-**Screenshots:**
+<details open>
+<summary>Screenshots</summary>
 
-<img src="https://github.com/user-attachments/assets/9375ba6a-0508-45e8-8a29-fe7269897ed7" width="45%">
-<img src="https://github.com/user-attachments/assets/1242822b-094e-479f-a4c9-17a84c76dced" width="45%">
-
+<img src="https://github.com/user-attachments/assets/1242822b-094e-479f-a4c9-17a84c76dced" width="55%">
+<img src="https://github.com/user-attachments/assets/9375ba6a-0508-45e8-8a29-fe7269897ed7" width="55%">
+</details>
 
 ### 3. [Simple ECS](https://github.com/BrownNPC/simple-ecs)
 Easy library to help you write your game systems.
