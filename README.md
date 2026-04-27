@@ -9,7 +9,7 @@ I'm also a frequent contributor to [raylib-go](https://github.com/gen2brain/rayl
 ## Projects: 
 
 ### 1. [Mine](https://github.com/BrownNPC/Mine)
-### **Minecraft** without the craft, using OpenGL+Raylib+Go. 
+### Performance Optimized Minecraft style Voxel Engine. Built to consume less than 75MB ram (for a hackathon)
 <details open>
 <summary>Screenshots</summary>
 <img src="https://github.com/user-attachments/assets/1242822b-094e-479f-a4c9-17a84c76dced" width="55%">
