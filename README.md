@@ -18,9 +18,8 @@ I'm also a frequent contributor to [raylib-go](https://github.com/gen2brain/rayl
 
 ### 2. [Raylib Go Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) 
 
-### [raylib-go](https://github.com/gen2brain/raylib-go) had not been able to compile to web for a decade, so I did it myself :D
 
-(and it wasn't as simple as you may think)
+### [raylib-go](https://github.com/gen2brain/raylib-go) web support for games written in Raylib + Go.
 
 
 ### 3. [Golang on a Sony PSP](https://github.com/BrownNPC/Wasm-on-PSP-Demo)
