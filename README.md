@@ -28,12 +28,6 @@ which was compiled to C (proof of concept)
 
 <img src="https://github.com/user-attachments/assets/90fc95c8-e26c-4b2b-8917-0abd58ebae6f" width="45%">
 
-### 4. [Simple ECS](https://github.com/BrownNPC/simple-ecs)
-Easy library to help you write your game systems.
-Now moved focus to https://github.com/BrownNPC/thing-system
 
-### 5. [ICE Data Channels](https://github.com/BrownNPC/Ice-Data-Channel)
+### 4. [ICE Data Channels](https://github.com/BrownNPC/Ice-Data-Channel)
 Establish peer to peer UDP connections, with Nat traversal using ICE Protocol.
-
-
-### 6. [Some remains of my first ever project with real users](https://github.com/BrownNPC/BLA-Api-Wrapper)
