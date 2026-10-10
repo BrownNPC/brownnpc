@@ -4,6 +4,7 @@
 #### Minecraft beta client in C.
 
 > Meant to run on old **32mb ram** consoles like Playstation 2, and Playstation Portable (PSP)
+> it joins real servers btw! but still work in progress.
 
 
 
@@ -15,7 +16,7 @@
 
 ### 2. [Raylib Go Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) 
 
-### Finally after decades, you can compile games written using this framework for web browsers. 
+ #### Games written using this framework couldn't run on web browsers, so I added the support for it myself :D
 
 > Featured on main [raylib-go](https://GitHub.com/gen2brain/raylib-go)
 > GitHub repo with 2.5k stars btw! 
