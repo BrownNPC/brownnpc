@@ -1,7 +1,7 @@
 ## Projects: 
 
 ### 1. [MagicBetaClient](https://github.com/BrownNPC/MagicBetaClient/tree/master)
-#### Protocol compatible Minecraft beta client in C.
+#### Minecraft beta client in C.
 
 > Meant to run on old **32mb ram** consoles like Playstation 2, and Playstation Portable (PSP)
 
@@ -15,7 +15,10 @@
 
 ### 2. [Raylib Go Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) 
 
-### Golang Web Assembly port for an opensource graphics library.
+### Finally after decades, you can compile games written using this framework for web browsers. 
+
+> Featured on main [raylib-go](https://GitHub.com/gen2brain/raylib-go)
+> GitHub repo with 2.5k stars btw! 
 
 ### 3. [Mine](https://github.com/BrownNPC/Mine)
 ### Performance Optimized Minecraft style Voxel Engine. Built to consume less than 75MB ram (for a hackathon)
