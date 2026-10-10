@@ -1,9 +1,9 @@
 ## Projects: 
 
 ### 1. [MagicBetaClient](https://github.com/BrownNPC/MagicBetaClient/tree/master)
-#### W.I.P 1:1 protocol compatible Minecraft beta 1.7.3 client in C.
+#### Protocol compatible Minecraft beta client in C.
 
-> Meant to run on old 32mb ram consoles like Playstation 2, and Playstation Portable (PSP)
+> Meant to run on old **32mb ram** consoles like Playstation 2, and Playstation Portable (PSP)
 
 
 
