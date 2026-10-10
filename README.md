@@ -1,11 +1,3 @@
-
-~~I DONT use Arch btw. (fedora is better)~~
-
-
-2026 update: I use Arch
-
-I'm also a frequent contributor to [raylib-go](https://github.com/gen2brain/raylib-go/).
-
 ## Projects: 
 
 ### 1. [MagicBetaClient](https://github.com/BrownNPC/MagicBetaClient/tree/master)
