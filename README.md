@@ -3,15 +3,14 @@
 ### 1. [MagicBetaClient](https://github.com/BrownNPC/MagicBetaClient/tree/master)
 #### Minecraft beta client in C.
 
-> Meant to run on old **32mb ram** consoles like Playstation 2, and Playstation Portable (PSP)
+> Meant to run on old **32mb ram** consoles like Playstation 2 and PSP
 > it joins real servers btw! but still work in progress.
 
 
 
 <p align="center">
-  <img width="32%" src="https://github.com/user-attachments/assets/8e6d5074-b01a-4c16-8b39-03ac63e8538a" />
-  <img width="32%" src="https://github.com/user-attachments/assets/addfb319-247d-43be-8973-92ffd20f3ff2" />
-  <img width="32%" src="https://github.com/user-attachments/assets/079f2c95-6dfe-48c6-870c-d3cf8a04132c" />
+  <img width="49%" src="https://github.com/user-attachments/assets/8e6d5074-b01a-4c16-8b39-03ac63e8538a" />
+  <img width="49%" src="https://github.com/user-attachments/assets/addfb319-247d-43be-8973-92ffd20f3ff2" />
 </p>
 
 ### 2. [Raylib Go Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) 
