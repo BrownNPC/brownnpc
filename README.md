@@ -3,7 +3,7 @@
 ### 1. [MagicBetaClient](https://github.com/BrownNPC/MagicBetaClient/tree/master)
 #### Minecraft beta client in C.
 
-> Meant to run on old **32mb ram** consoles like Playstation 2 and PSP
+> Meant to run on old **32mb ram** consoles like Playstation 2 and PSP.
 > it joins real servers btw! but still work in progress.
 
 
